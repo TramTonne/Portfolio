@@ -1,0 +1,26 @@
+[
+    {
+      "title": "theMEAL",
+      "imageSrc": "assets/projects/project.jpg",
+      "description": "Built an AI-powered web app that generates personalized meal plans and recipes",
+      "skills": ["Next", "OpenAI API", "Tailwind CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Disaster Preparedness App",
+      "imageSrc": "assets/projects/project.jpg",
+      "description": "Developed a backend system to create caregiver evacuation plans",
+      "skills": ["PostgreSQL", "Node", "REST API"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Automated Job Application Bot",
+      "imageSrc": "assets/projects/project.jpg",
+      "description": "Created a Python bot automating LinkedIn job applications and streamline the job search",
+      "skills": ["Python", "Selenium"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

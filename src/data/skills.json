@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "assets/skills/html.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "assets/skills/python.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "assets/skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "assets/skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "assets/skills/node.png"
+    },
+    {
+      "title": "Next",
+      "imageSrc": "assets/skills/next.png"
+    },
+    {
+      "title": "LlamaIndex",
+      "imageSrc": "assets/skills/lla.png"
+    },
+    {
+      "title": "Postgres",
+      "imageSrc": "assets/skills/pg.png"
+    },
+    {
+      "title": "OpenAI API",
+      "imageSrc": "assets/skills/openAi.png"
+    }
+  ]

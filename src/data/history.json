@@ -1,0 +1,32 @@
+[
+    {
+      "role": "Business Calculus Tutor",
+      "organisation": "Smartlab",
+      "startDate": "August 2023",
+      "endDate": "Present",
+      "experiences": ["Provided one-on-one and group tutoring", 
+      "Facilitated understanding of complex concepts to individual learning styles",
+    "Communication, leadership skills while mentoring over 3000+ students"],
+      "imageSrc": "assets/history/usf.png"
+    },
+    {
+      "role": "AI and Automation Extern",
+      "organisation": "Outamation",
+      "startDate": "May 2025",
+      "endDate": "Present",
+      "experiences": ["Build AI workflows for document classification and data extraction", "Developed a retrieval system "],
+      "imageSrc": "assets/history/extern.png"
+    },
+    {
+      "role": "Treasurer & Fundraising Director",
+      "organisation": "Vietnamese International Student Association",
+      "startDate": "August 2023",
+      "endDate": "December 2024",
+      "experiences": [
+        "Managing VISA's financial activities",
+        "Building a relationship with potential sponsors",
+        "Planned, operated a Vietnamese food fundraiser"
+      ],
+      "imageSrc": "assets/history/visalogo.png"
+    }
+  ]
