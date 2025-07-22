@@ -4,16 +4,16 @@
       "imageSrc": "assets/projects/project.jpg",
       "description": "Built an AI-powered web app that generates personalized meal plans and recipes",
       "skills": ["Next", "OpenAI API", "Tailwind CSS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://themeal-9he02d03z-trams-projects-40f8c84a.vercel.app/",
+      "source": "https://github.com/TramTonne/theMeal"
     },
     {
       "title": "Disaster Preparedness App",
       "imageSrc": "assets/projects/project.jpg",
       "description": "Developed a backend system to create caregiver evacuation plans",
       "skills": ["PostgreSQL", "Node", "REST API"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://da-9m3hhzolr-trams-projects-40f8c84a.vercel.app/",
+      "source": "https://github.com/TramTonne/TASH-Disaster-Preparedness-App"
     },
     {
       "title": "Automated Job Application Bot",
@@ -22,5 +22,21 @@
       "skills": ["Python", "Selenium"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
+    },
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "assets/projects/project.jpg",
+      "description": "Developed a responsive portfolio website showcasing my projects and skills using modern web technologies",
+      "skills": ["React", "CSS Modules", "Vite"],
+      "demo": "https://portfolio-trams-projects-40f8c84a.vercel.app/",
+      "source": "https://github.com/TramTonne/Portfolio"
+    },
+    {
+      "title": "Splitly",
+      "imageSrc": "assets/projects/project.jpg",
+      "description": "Created an innovative app that helps users scan receipts and automatically split bills among people sharing expenses",
+      "skills": ["React", "OCR", "JavaScript", "Firebase"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/TramTonne/Splitly"
     }
   ]
