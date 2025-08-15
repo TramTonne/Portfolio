@@ -38,5 +38,12 @@
       "skills": ["React", "OCR", "JavaScript", "Firebase"],
       "demo": "https://expo.dev/accounts/tramtonne/projects/smart-split-app/fingerprints/4687f3a313177acb66944862673f2104fc729c20",
       "source": "https://github.com/TramTonne/Splitly"
+    },
+    {
+      "title": "MovieHD",
+      "imageSrc": "assets/projects/project.jpg",
+      "description": "Developed a movie discovery app that provides personalized recommendations based on user preferences",
+      "skills": ["TypeScript", "JavaScript", "CSS"],
+      "source": "https://github.com/TramTonne/MovieHD"
     }
   ]

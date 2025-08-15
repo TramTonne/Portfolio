@@ -3,7 +3,8 @@ import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
 export const Hero = () => {
-    return (<section className={styles.container}>
+    return (
+    <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hi, I am Tram</h1>
             <p className={styles.description}> I'm a Computer Science student at the University of South Florida with a passion for building impactful, user-focused applications. 
