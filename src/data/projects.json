@@ -36,7 +36,7 @@
       "imageSrc": "assets/projects/project.jpg",
       "description": "Created an innovative app that helps users scan receipts and automatically split bills among people sharing expenses",
       "skills": ["React", "OCR", "JavaScript", "Firebase"],
-      "demo": "https://expo.dev/accounts/tramtonne/projects/smart-split-app/fingerprints/4687f3a313177acb66944862673f2104fc729c20",
+      "demo": "smart-split-dsf6kths3-tram-projects.vercel.app",
       "source": "https://github.com/TramTonne/Splitly"
     },
     {
