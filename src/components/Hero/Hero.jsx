@@ -11,7 +11,7 @@ export const Hero = () => {
                 From AI-powered tools to full-stack web development, I enjoy solving real-world problems through clean code, smart automation, and thoughtful design.</p>
             <div className={styles.btns}>
             <a href ="mailto:tonnuquynhtram2004@gmail.com" className={styles.contactBtn}>Contact Me ✉️</a>
-            <a href="/assets/resume/TramTon_Resume copy.pdf" download="Tram_Resume.pdf" className={styles.contactBtn}>Resume 📥</a>
+            <a href="/assets/resume/TramTon_Resume.pdf" download="Tram_Resume.pdf" className={styles.contactBtn}>Resume 📥</a>
             </div>
         </div>
         <img src={"assets/hero/heroImage.png"} alt="Hero image of me" className={styles.heroImg}/>
