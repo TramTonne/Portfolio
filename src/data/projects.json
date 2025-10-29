@@ -4,7 +4,7 @@
       "imageSrc": "assets/projects/project.jpg",
       "description": "Built an AI-powered web app that generates personalized meal plans and recipes",
       "skills": ["Next", "OpenAI API", "Tailwind CSS"],
-      "demo": "https://themeal-9he02d03z-trams-projects-40f8c84a.vercel.app/",
+      "demo": "https://themeal-xi.vercel.app/",
       "source": "https://github.com/TramTonne/theMeal"
     },
     {
@@ -12,8 +12,16 @@
       "imageSrc": "assets/projects/project.jpg",
       "description": "Developed a backend system to create caregiver evacuation plans",
       "skills": ["PostgreSQL", "Node", "REST API"],
-      "demo": "https://da-9m3hhzolr-trams-projects-40f8c84a.vercel.app/",
+      "demo": "https://disasterplanner.vercel.app/",
       "source": "https://github.com/TramTonne/TASH-Disaster-Preparedness-App"
+    },
+    {
+      "title": "Splitly",
+      "imageSrc": "assets/projects/project.jpg",
+      "description": "Created an innovative app that helps users scan receipts and automatically split bills among people sharing expenses",
+      "skills": ["React", "OCR", "JavaScript", "Firebase"],
+      "demo": "https://smart-split-app.vercel.app/welcome",
+      "source": "https://github.com/TramTonne/Splitly"
     },
     {
       "title": "Automated Job Application Bot",
@@ -27,16 +35,8 @@
       "imageSrc": "assets/projects/project.jpg",
       "description": "Developed a responsive portfolio website showcasing my projects and skills using modern web technologies",
       "skills": ["React", "CSS Modules", "Vite"],
-      "demo": "https://portfolio-trams-projects-40f8c84a.vercel.app/",
+      "demo": "https://tram-portfolio.vercel.app/",
       "source": "https://github.com/TramTonne/Portfolio"
-    },
-    {
-      "title": "Splitly",
-      "imageSrc": "assets/projects/project.jpg",
-      "description": "Created an innovative app that helps users scan receipts and automatically split bills among people sharing expenses",
-      "skills": ["React", "OCR", "JavaScript", "Firebase"],
-      "demo": "https://smart-split-dsf6kths3-tram-projects.vercel.app",
-      "source": "https://github.com/TramTonne/Splitly"
     },
     {
       "title": "MovieHD",
