@@ -13,10 +13,16 @@
 
 .title {
     color: var(--color-text);
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
     font-size: 35px;
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+}
+
+.descript {
+    margin-top: 20px;
+    color: var(--color-text);
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
 }
 

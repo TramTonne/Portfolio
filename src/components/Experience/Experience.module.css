@@ -28,6 +28,8 @@
     display: flex;
     flex-wrap: wrap;
     gap: 11px;
+    max-height: fit-content;
+    margin-top: 50px;
 }
 
 .skill{
@@ -70,7 +72,7 @@
     flex-direction: row;
     align-items: center;
     gap: 15px;
-    background: linear-gradient(90deg,#7887f4 0%, rgba(32, 70, 141, 0) 100%);
+    background: linear-gradient(90deg,#7887f4 0%, rgba(32, 70, 141, 0.1) 100%);
     border-radius: 10px;
     padding: 24px;
 }

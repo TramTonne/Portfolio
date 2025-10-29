@@ -34,5 +34,9 @@
     {
       "title": "OpenAI API",
       "imageSrc": "assets/skills/openAi.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "assets/skills/JavaScript-logo.png"
     }
   ]

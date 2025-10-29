@@ -18,9 +18,9 @@ export const About = () => {
                     <li className={styles.aboutItem}>
                         <img src="assets/about/cursorIcon.png" alt="Cursor icon" />
                         <div className={styles.aboutItemText}>
-                            <h3>Developer with Purpose</h3>
-                            <p>Driven by a passion for solving real-world problems,
-                                I build tools and applications that make a tangible impact—from automating job applications to improving disaster preparedness for caregivers.
+                            <h3>Developer with Impact</h3>
+                            <p className={styles.descript}>I’m driven by a genuine love for solving real-world problems with code. 
+                                From building AI systems that streamline mortgage document processing to designing apps that support disaster preparedness, I focus on creating technology that makes life a little easier
                             </p>
                         </div>
                     </li>
@@ -28,8 +28,7 @@ export const About = () => {
                         <img src="assets/about/serverIcon.png" alt="Server icon" />
                         <div className={styles.aboutItemText}>
                             <h3>AI & Full-Stack Experience</h3>
-                            <p>I combine backend development with AI-powered solutions, 
-                                working with technologies like Next.js, Node.js, OpenAI, and LlamaIndex to create intelligent, user-focused systems.
+                            <p className={styles.descript}>My work blends AI innovation and full-stack development — combining tools like Next.js, Node.js, OpenAI, and LlamaIndex to build intelligent, user-centered solutions. I’ve developed everything from retrieval-augmented generation systems to full web and mobile applications.
                             </p>
                         </div>
                     </li>
@@ -37,9 +36,7 @@ export const About = () => {
                         <img src="assets/about/uiIcon.png" alt="UI icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Collaborative & Curious</h3>
-                            <p>Whether collaborating in a hackathon or leading a student organization, 
-                                I thrive in team environments and continuously seek opportunities to 
-                                grow, learn, and contribute meaningfully.
+                            <p className={styles.descript}>Whether I’m collaborating in research to advance neuro-symbolic AI or leading a hackathon team, I thrive in environments where curiosity drives learning. I enjoy turning challenges into opportunities to grow, build with others, and make something meaningful together.
                             </p>
                         </div>
                     </li>
